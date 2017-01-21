@@ -2,7 +2,7 @@ import urllib.request
 import json
 import re
 
-# The following variables will be used to caluclate averages at the end
+# The following variables will be used to calculate averages at the end
 # of the entire program.
 poetryScoreSum = 0              # counts the sum of scores belonging to [poetry] posts
 haikuScoreSum = 0               # counts the sum of socres belonging to [haiku] posts
