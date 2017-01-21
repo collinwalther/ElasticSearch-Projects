@@ -1,3 +1,6 @@
+# A python script that iterates throughout every post on /r/youtubehaiku, using the reddit
+# submissions collection, searched through ElasticSearch.
+
 import urllib.request
 import json
 import re
