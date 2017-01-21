@@ -1,4 +1,4 @@
-The files here use the reddit submissions API for ElasticSearch to do stuff with reddit data.
+The files here use the reddit submissions collection on ElasticSearch to do stuff with reddit data.
 
 Thanks to reddit user <a href = "https://www.reddit.com/user/Stuck_In_the_Matrix">Stuck_In_The_Matrix</a> for providing the API 
 <a href = "https://www.reddit.com/r/datasets/comments/5nxkob/reddit_submissions_are_now_in_elasticsearch_and/">here</a>.
