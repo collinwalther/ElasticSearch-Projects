@@ -5,6 +5,7 @@ Thanks to reddit user <a href = "https://www.reddit.com/user/Stuck_In_the_Matrix
 
 Current results I've gotten from my projects:
 
+
 <p>Average score of all [Poetry] posts on /r/youtubehaiku: 124</p>
 <p>Average score of all [Haiku] posts on /r/youtubehaiku: 120 </p>
 <p>Average score of all [Poetry] posts with score >= 20 on /r/youtubehaiku: 383</p>
